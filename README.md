@@ -8,3 +8,6 @@ This is a project to auto-deploy with an ML payload
 
 1.  Setup trigger in Cloud Build
 2. Make sure you enable App Engine and Service Account.
+
+
+The application is deployed [here](https://cd-flask-ml-deploy-demo.ew.r.appspot.com/)
